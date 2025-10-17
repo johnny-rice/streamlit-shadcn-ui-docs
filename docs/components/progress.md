@@ -4,7 +4,7 @@
 import streamlit as st
 import streamlit_shadcn_ui as ui
 
-dt = ui.date_picker(key="date_picker", label="Date Picker")
+progress_value = ui.progress(data=30, key="progress1")
 
-st.write("Date:", dt)
+st.write(ui.progress)
 ```
