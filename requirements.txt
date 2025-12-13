@@ -1,5 +1,5 @@
-streamlit==1.49.0
+streamlit==1.38.0
 pandas
 streamlit-shadcn-ui>=0.1.19
-streamlit_extras
+streamlit_extras==0.3.6
 pygwalker>=0.4.8.3
